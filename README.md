@@ -129,9 +129,4 @@ This Python 3.14.3 build uses a lightweight OpenCV template matcher. It is easie
 - Increase Recognition Strictness if false matches occur.
 - Decrease Recognition Strictness if registered students are often marked unknown.
 
-## Presentation Tips
 
-- Register 3 to 5 students with clear frontal images.
-- Use the laptop webcam first for a quick dry run.
-- Then switch to the Android IP camera stream for the CCTV demo.
-- Show the attendance table, department chart, daily report, and unknown capture history.

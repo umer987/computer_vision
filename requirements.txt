@@ -1,0 +1,7 @@
+# Python 3.14.3 compatible version.
+# This project uses OpenCV-only face detection/recognition to avoid dlib.
+opencv-python>=4.10.0.84,<5
+numpy
+pandas
+streamlit
+Pillow
